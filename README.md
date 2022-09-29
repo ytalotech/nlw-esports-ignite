@@ -4,7 +4,7 @@
 
 <h3 align="center">
 
-Esports é um projeto **Open Source** desenvolvido na semana **Next Level Week ** da **[Rocketseat][rocketseat_site]** utilizando as tecnologias ***TypeScript, Node, React, React Native, Expo e Tailwind***.
+Esports é um projeto **Open Source** desenvolvido na semana **Next Level Week ** da **[Rocketseat][rocketseat_site]** utilizando as tecnologias ***TypeScript, Node, React, React Native, Expo e tailwindcss***.
 
 </h3>
 
@@ -154,11 +154,6 @@ Agora, abra o aplicativo do expo e no modo **LAN** faça o scan do QRCode.
 
 > Se tiver algum problema para executar o aplicativo nesse modo, tente desabilitar o firewall da sua máquina.
 
-Se tiver algum problema com as fontes, utilize o comando:
-```sh
-$ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
-```
-
 **\* Lembre de inserir nos arquivos `src/screens/Game/index.tsx | src/screens/Home/index.tsx` o IP exato que foi gerado pelo seu mobile após utilizar o comando `npm run start`.**
 
 ## **:star2: AGRADECIMENTOS**
@@ -207,6 +202,7 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 - [Expo](https://expo.io/learn)
 - [Express](https://expressjs.com/pt-br/)
 - [Node](https://nodejs.org/en/)
+- [Tailwindcss](https://tailwindcss.com/)
 
 ## **:page_with_curl: LICENÇA**
 
